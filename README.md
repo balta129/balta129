@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Hamza 👋
 
-<!--
-**balta129/balta129** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎮 My Game Project – Lioren
 
-Here are some ideas to get you started:
+Lioren is my first completed game project developed in Unreal Engine.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+It is an action platformer where you explore a cursed keep, unlock new forms and abilities, and fight powerful enemies.
+
+### Features
+- Multiple forms with unique abilities
+- Upgradeable and unlockable skill system
+- Combat and boss fights
+- Exploration and progression
+- Save system
+
+🔗 Play here:
+https://taisui53.itch.io/lioren-thesealedpath
+
+---
+
+## 💻 C++ Gameplay Systems
+
+Check out my Unreal Engine C++ systems:
+
+👉 https://github.com/balta129/UE5-Cpp-Inventory-System
